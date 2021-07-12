@@ -11,6 +11,8 @@ public class Calculator {
 		
 
 	}
+	
+	//subtract method
 	public int subtract (int a, int b) {
 		return a - b;
 		
