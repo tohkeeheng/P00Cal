@@ -18,7 +18,7 @@ public class Calculator {
 		
 	}
 	
-
+//multiply method
 	public int multiply(int a, int b) {
 		return a * b;
 		
